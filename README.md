@@ -1,6 +1,6 @@
 
 
-                                               VIRTUAL VOICE ASSISTANT WITH INTEGRATED ASL
+                                               VIRTUAL ASSISTANT WITH INTEGRATED ASL
 
 DESCRIPTION OF PROJECT : 
 
