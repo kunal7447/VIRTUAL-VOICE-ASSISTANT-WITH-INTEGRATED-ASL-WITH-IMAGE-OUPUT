@@ -9,7 +9,7 @@ Translate Text API , Correct Grammar API  that provides us with various function
 controlled mail exchange, music play service, checking weather, searching engine (Google, Wikipedia), Booking Cabs, 
 suggesting YouTube video for query , location services etc, through voice and sign language both.
 
-GENR API's WE USED : 
+openai API's WE USED : 
 > Generate Image API
 > Translate Text API
 > Correct Grammar API
